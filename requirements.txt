@@ -7,3 +7,8 @@ pandas
 requests
 duckdb
 httpx
+google-genai
+requests
+numpy
+openpyxl
+beautifulsoup4
