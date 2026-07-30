@@ -1,0 +1,9 @@
+python-telegram-bot
+fastapi
+uvicorn
+python-dotenv
+openai
+pandas
+requests
+duckdb
+httpx
