@@ -42,4 +42,6 @@ def run_bot():
     )
 
     print("Bot is running...")
-    app.run_polling()
+    app.run_polling(
+    	stop_signals=None
+)
